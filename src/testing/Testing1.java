@@ -7,6 +7,7 @@ public class Testing1 {
 		System.out.print("This a github testing method");
 		System.out.print("This a github testing method");
 		System.out.print("This a github testing method");
+		System.out.println("My name is Sharmin");
 		
 	}
 
